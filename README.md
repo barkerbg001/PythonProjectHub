@@ -45,3 +45,16 @@ If a project requires additional dependencies, they will be listed in the README
 ## Project Structure
 
 Each project folder follows this structure:
+
+- **`README.md`**: Provides an overview of the project, including instructions and usage details. This file includes:
+  - **Project Description**: An overview of what the project is about.
+  - **Getting Started**: Instructions on how to set up and run the project.
+  - **Usage**: How to use the project once it's running.
+  - **License**: Licensing information.
+
+- **`main.py`**: The main script for the project. This is typically the entry point for the application or script.
+
+- **`requirements.txt`** (if applicable): Lists the dependencies required for the project. You can install these dependencies using:
+  ```bash
+  pip install -r requirements.txt
+  ```
