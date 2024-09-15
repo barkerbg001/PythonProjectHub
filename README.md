@@ -41,3 +41,7 @@ To get started with any of the projects, follow these steps:
    ```
 
 If a project requires additional dependencies, they will be listed in the README.md file within the respective project folder.
+
+## Project Structure
+
+Each project folder follows this structure:
