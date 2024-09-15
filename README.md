@@ -58,3 +58,9 @@ Each project folder follows this structure:
   ```bash
   pip install -r requirements.txt
   ```
+  
+(Optional) **Additional files or folders**: Specific to each project, such as:
+
+- **Configuration Files**: Files that configure how the project runs or interacts with other systems.
+- **Assets**: Files like images, sound files, or other resources used by the project.
+- **Modules**: Additional Python scripts or packages that the project relies on.
