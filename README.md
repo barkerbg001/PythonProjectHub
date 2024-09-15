@@ -64,3 +64,22 @@ Each project folder follows this structure:
 - **Configuration Files**: Files that configure how the project runs or interacts with other systems.
 - **Assets**: Files like images, sound files, or other resources used by the project.
 - **Modules**: Additional Python scripts or packages that the project relies on.
+
+## Usage
+
+- **Development**: Feel free to modify and enhance the projects. This repository is intended to be a learning resource and a base for further development.
+- **Testing**: Run the projects in your local Python environment to test their functionality.
+- **Submission**: If you are using these projects for assignments or exams, ensure they meet the specific requirements provided by your instructor.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements for any of the projects, please submit a pull request or open an issue. When contributing, follow these guidelines:
+
+1. **Fork the repository**.
+2. **Create a new branch** for your changes.
+3. **Commit your changes** and push them to your fork.
+4. **Open a pull request** with a description of the changes.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the projects as needed. For more details, see the `LICENSE` file.
