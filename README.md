@@ -29,6 +29,15 @@ To get started with any of the projects, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/PythonHighSchoolProjects.git
+   git clone https://github.com/barkerbg001/PythonHighSchoolProjects.git
    ```
-2. 
+2. **Navigate to the Project Folder**: Change into the directory of the project you want to work on:
+   ```bash
+   cd PythonHighSchoolProjects/1. Simple Calculator
+   ```
+3. **Run the Project**: Most projects are standalone scripts. You can run them using Python:
+   ```bash
+   python main.py
+   ```
+
+If a project requires additional dependencies, they will be listed in the README.md file within the respective project folder.
