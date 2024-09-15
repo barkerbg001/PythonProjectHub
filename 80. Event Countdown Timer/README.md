@@ -1,0 +1,19 @@
+# Event Countdown Timer
+
+This is the README file for the Event Countdown Timer project.
+
+## Description
+
+Brief description of the project.
+
+## Getting Started
+
+Instructions to get the project running.
+
+## Usage
+
+How to use the project.
+
+## License
+
+This project is licensed under the MIT License.
